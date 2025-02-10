@@ -1,6 +1,7 @@
 #!/usr/bin/env node
-
+const clearConsole = require('clear-any-console')
 // Helper function to create gradient colors
+clearConsole()
 const gradient = (text, startColor, endColor) => {
     const colors = [];
     const steps = text.length;

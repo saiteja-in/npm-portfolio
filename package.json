@@ -1,7 +1,10 @@
 {
-    "name":"saiteja",
-    "version":"1.0.1",
-    "bin":{
-        "saiteja":"index.js"
+    "name": "saiteja",
+    "version": "1.0.2",
+    "bin": {
+        "saiteja": "index.js"
+    },
+    "dependencies": {
+        "clear-any-console": "^1.16.3"
     }
 }

@@ -74,7 +74,7 @@ You can easily modify:
 
 ## Screenshots
 
-![CLI Introduction Screenshot](screenshot.png)
+![CLI Introduction Screenshot](https://nexfolio.s3.ap-south-1.amazonaws.com/Screenshot+2025-02-10+193244.png)
 
 ## Author
 
@@ -83,14 +83,6 @@ You can easily modify:
 - LinkedIn: [Sai Teja](https://www.linkedin.com/in/vurukonda-sai-teja-279131201)
 - Blog: [saiteja.blog](https://saiteja.blog)
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to check [issues page](https://github.com/saiteja-in/cli-intro/issues).
 
 ## Support
 
